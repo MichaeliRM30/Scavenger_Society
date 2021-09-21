@@ -4,18 +4,15 @@ This repository is for my final project in Madison College's Enterprise Java Cla
 
 ### Problem Statement
 
-Get Outside and Social
+Create Local, City, State, Nation, or Worldwide Scavenger Hunts or do the Hunting yourself! Track your Hunt's activity or show off your personal progress.
 
-Preserve History
-
-Promote Local Business
+* Get Outside and Social
+* Preserve History
+* Promote Local Business
 
 Screenshots:
 
 ![Trail Description](images/MirrorLakeTrailExample.png)
-
-![Trail Report](images/MadisonAreaExample.png)
-
 
 ### Project Technologies/Techniques (Edit)
 
@@ -60,9 +57,6 @@ Screenshots:
 
 ### [Project Plan](ProjectPlan.md)
 
-### Examples of documentation of progress, reflections, and time spent on this class
-Choose a format that works for you, or create your own.
+### Progress Documentation and Reflection
 
-#### [Weekly Refelection](WeeklyReflection.md)
-#### [Journal](Journal.md)
 #### [TimeLog](TimeLog.md)
