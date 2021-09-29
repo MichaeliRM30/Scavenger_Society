@@ -10,9 +10,11 @@ Create Local, City, State, Nation, or Worldwide Scavenger Hunts or do the Huntin
 * Preserve History
 * Promote Local Business
 
+MVP: http://www.spartanheadquarters.org/store/p133/Spot_the_Spartan_Passport.html
+
 Screenshots:
 
-![Trail Description](images/MirrorLakeTrailExample.png)
+![Passport Cover](images/DigitalPassport.png)
 
 ### Project Technologies/Techniques (Edit)
 
