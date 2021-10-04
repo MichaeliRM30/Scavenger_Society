@@ -4,17 +4,40 @@ This repository is for my final project in Madison College's Enterprise Java Cla
 
 ### Problem Statement
 
-Create Local, City, State, Nation, or Worldwide Scavenger Hunts or do the Hunting yourself! Track your Hunt's activity or show off your personal progress.
+In trying to achieve a combination of objectives - preserve history, promote local business and attractions, encourage 
+social interaction, and provide a different kind of entertainment option - the Scavenger Society Web App will be a streamlined
+option in the scavenger hunt software space.
 
-* Get Outside and Social
-* Preserve History
-* Promote Local Business
+Similar Options Include:
+* goosechase | https://www.goosechase.com/
+* Actionbound | https://en.actionbound.com/
+* scavify | https://www.scavify.com/
+
+With Scavenger Society you can Create Local, City, State, Nation, or Worldwide Scavenger Hunts or do the Hunting yourself! 
+Track your Hunt location activity or show off your personal progress.
+
+For the first iteration, Scavenger Society will model an example after the Village of McFarland's
+Spot the Spartan Scavenger Hunt hosted by the local DECA Chapter.
 
 MVP: http://www.spartanheadquarters.org/store/p133/Spot_the_Spartan_Passport.html
 
 Screenshots:
 
 ![Passport Cover](images/DigitalPassport.png)
+
+(Additional Images to Be Provided)
+
+### Design
+
+* [User Stories](DesignDocuments/userStories.md)
+* [Screen Design](DesignDocuments/screens.md)
+* [Application Flow](DesignDocuments/applicationFlow.md)
+* [Database Design](DesignDocuments/databaseDiagram.md)
+
+
+### Progress Documentation and Reflection
+* [User Stories](DesignDocuments/userStories.md)
+* [TimeLog](DesignDocuments/timeLog.md)
 
 ### Project Technologies/Techniques (Edit)
 
@@ -47,18 +70,3 @@ Screenshots:
 * Unit Testing
     * JUnit tests to achieve 80%+ code coverage
 * IDE: IntelliJ IDEA
-
-
-### Design
-
-* [User Stories](DesignDocuments/userStories.md)
-* [Tasks](DesignDocuments/tasks.md)
-* [Screen Design](DesignDocuments/Screens.md)
-* [Application Flow](DesignDocuments/applicationFlow.md)
-* [Database Design](DesignDocuments/databaseDiagram.png)
-
-### [Project Plan](ProjectPlan.md)
-
-### Progress Documentation and Reflection
-
-#### [TimeLog](TimeLog.md)
