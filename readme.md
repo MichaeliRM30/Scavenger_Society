@@ -28,11 +28,12 @@ Screenshots:
 (Additional Images to Be Provided)
 
 ### Design
-
 * [User Stories](DesignDocuments/userStories.md)
-* [Screen Design](DesignDocuments/screens.md)
 * [Application Flow](DesignDocuments/applicationFlow.md)
 * [Database Design](DesignDocuments/databaseDiagram.md)
+
+### User Interfaces
+* [Home Page](DesignDocuments/Home%20Page%20(Draft).png)
 
 
 ### Progress Documentation and Reflection
