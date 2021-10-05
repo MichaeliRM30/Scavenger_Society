@@ -34,6 +34,11 @@ Screenshots:
 
 ### User Interfaces
 * [Home Page](DesignDocuments/Home%20Page%20(Draft).png)
+* [Sign Up](DesignDocuments/)
+* [Sign In](DesignDocuments/)
+* [New Hunt](DesignDocuments/)
+* [Hunt Summary](DesignDocuments/)
+* [About Scavenger Society](DesignDocuments/)
 
 
 ### Progress Documentation and Reflection
