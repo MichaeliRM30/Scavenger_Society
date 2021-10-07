@@ -8,7 +8,7 @@ In trying to achieve a combination of objectives - preserve history, promote loc
 social interaction, and provide a different kind of entertainment option - the Scavenger Society Web App will be a streamlined
 option in the scavenger hunt software space.
 
-Similar Options Include:
+Similar Product Offerings Include:
 * goosechase | https://www.goosechase.com/
 * Actionbound | https://en.actionbound.com/
 * scavify | https://www.scavify.com/
@@ -34,11 +34,13 @@ Screenshots:
 
 ### User Interfaces
 * [Home Page](DesignDocuments/Home%20Page%20(Draft).png)
-* [Sign Up](DesignDocuments/)
-* [Sign In](DesignDocuments/)
+* [Sign Up](DesignDocuments/Sign%20Up.png)
+* [Sign In](DesignDocuments/Sign%20In.png)
 * [New Hunt](DesignDocuments/)
+* [New Point](DesignDocuments/)
 * [Hunt Summary](DesignDocuments/)
-* [About Scavenger Society](DesignDocuments/)
+* [New Difficulty Note](DesignDocuments/)
+* [About Scavenger Society](DesignDocuments/About.png)
 
 
 ### Progress Documentation and Reflection

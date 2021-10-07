@@ -41,35 +41,35 @@ As any user, I want to be able to read a user report for hunt involvement and pr
 
 ### View Hunt Report*
 
-As any user, I want to be able to read a trail report for a given trail so that I can check out the conditions of that trail.
+As any user, I want to be able to read a hunt report seeing what users are participating and what points they have uncovered. Maybe include timing metrics.
 
 ### View Hunt*
 
-As any user, I want to be able to search for trails by name or location so that I could choose an appropriate trail to ride.
+As any user, I want to be able to search for hunts by name or location so that I could choose one im interested in.
 
-### View Snow Depth*
+### View Hunt Difficulty (Rating, Point #, Terrain)*
 
-As any user, I want to be able to view the current snow depth near any trail.
+As any user, I want to be able to view the hunt difficulty using a few metrics.
 
 ### About*
 
 As a user I want to find out more information about this site so that I can make donations or contact the admin.
 
-### Add Trail Report*
+### Add Hunt Difficulty*
 
-As a registered user, I want to be able to add trail reports for a trail so that others will know the current conditions.
+As a registered user, I want to be able to add hunt difficulty to give users the latest data to make decisions. 
 
-### Add Trail*
+### Add Hunt*
 
-As a registered user, I want to be able to add a new trail so that others can learn about the trail and add trail reports for it.
+As a registered user, I want to be able to add a new hunt so that others can learn about the hunt and add their progress and difficulty ratings to it.
 
-### Admin Edit Trail*
+### Admin Edit Hunt*
 
-As an admin user, I want to be able to edit any trail.
+As an admin user, I want to be able to edit any hunt.
 
-### Admin Edit Trail Report*
+### Admin Edit Hunt Difficulty*
 
-As an admin user, I want to be able to edit any trail report.
+As an admin user, I want to be able to edit any hunt difficulty notes.
 
 ### Password Reset
 
@@ -79,24 +79,15 @@ As a registered user or admin, I want to be able to be able to reset my password
 
 As a registered user or admin, I want to be able to edit my profile.
 
-### Edit Trail Report
+### Edit Hunt Report
 
-As registered user, I want to be able to edit my trail reports.
+As registered user, I want to be able to edit my hunt difficulty notes.
 
-### Report Inaccurate Trail Information
+### Edit Hunt Report
 
-As any user, I want to be able to report inaccurate trail information.
+As registered user, I want to be able to edit my hunts.
 
-### Report Inappropriate Items
+### Report Hunt Inaccuracies, Conditions, Vandalism, etc.
 
-As any user, I want to be able to report inappropriate items (trails, reports, usernames)
-
-### Admin Review Inaccurate Trail Info
-
-As an admin, I want to receive notifications of reported inaccurate trail info.
-
-### Admin Review Inappropriate Items
-
-As an admin, I want to receive notifications of reported inappropriate items.
-
+As any user, I want to be able to report concerning characteristics of a hunt.
 

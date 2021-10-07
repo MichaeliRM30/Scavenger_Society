@@ -7,3 +7,5 @@
 | 9/21-25/2021 | Catching up on Week 3/4 Work, Checkpoint 1 work. | 7 | Log4J2, Junit Tests, Coverage |
 | 9/26-29/2021, 10/3/2021 | Practiced with Log4J2, DAO, and Hibernate, Week 4/5 catch up, Designing Indie Project | 6 | DAO, Hibernate |
 | 10/4-5/2021 | Week 4/5, Adding User Stories, Wireframes | 4 | Hibernate, AWS, Security and Authentication, Web Services |
+| 10/7/2021 | Week 5/6 catch up, | 5 ||
+|||||
