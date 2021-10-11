@@ -1,75 +1,147 @@
 # User Stories and Tasks
 
-*Denotes MVP
+*Denotes MVP, *EC - Estimated Completion
 
 ### Sign up*
 
 As a new user I want to create an account so that I can see my info, track my progress on a hunt, or create my own hunt.
 
-- [ ] new user jsp
-- [ ] add user controller (java class)
-- [ ] user entity (java class)
-- [ ] user table
-- [ ] user dao to add user to db (java class)
-- [ ] unit test dao add user functionality
-- [ ] test round trip (front end to back end)
+- [ ] (EC: xx/xx/xxxx) new user jsp
+- [ ] (EC: xx/xx/xxxx) add user controller (java class)
+- [ ] (EC: xx/xx/xxxx) user entity (java class)
+- [ ] (EC: xx/xx/xxxx) user table
+- [ ] (EC: xx/xx/xxxx) user dao to add user to db (java class)
+- [ ] (EC: xx/xx/xxxx) unit test dao add user functionality
+- [ ] (EC: xx/xx/xxxx) test round trip (front end to back end)
 
 ### Sign In*
 
 As a registered user I want to log in so that I can add or manage my account, hunts, and my progress.
 
-- [ ] Learn tomcat authentication (week 7)
-- [ ] Add tasks once I learn more!
+- [ ] (EC: xx/xx/xxxx) Learn tomcat authentication (week 7)
+- [ ] (EC: xx/xx/xxxx) Add tasks once I learn more!
 
 ### Find Hunts*
 
 As any user I want to be able to find Scavenger Hunts by name or location so that I can learn more about them, add
 myself as a hunter and track my progress towards completing it.
 
-- [ ] hunt table
-- [ ] search hunts jsp
-- [ ] search hunts controller (java class)
-- [ ] hunt entity (java class)
-- [ ] hunt table
-- [ ] hunt dao to search for hunts by name and location
-- [ ] unit test hunt dao searches (find by name and location)
-- [ ] test round trip (front end to back end)
+- [ ] (EC: xx/xx/xxxx) hunt table
+- [ ] (EC: xx/xx/xxxx) search hunts jsp
+- [ ] (EC: xx/xx/xxxx) search hunts controller (java class)
+- [ ] (EC: xx/xx/xxxx) hunt entity (java class)
+- [ ] (EC: xx/xx/xxxx) hunt table
+- [ ] (EC: xx/xx/xxxx) hunt dao to search for hunts by name and location
+- [ ] (EC: xx/xx/xxxx) unit test hunt dao searches (find by name and location)
+- [ ] (EC: xx/xx/xxxx) test round trip (front end to back end)
 
-### View User Report*
+### View User Profile*
 
 As any user, I want to be able to read a user report for hunt involvement and progress or manage my own hunts.
+
+- [ ] (EC: xx/xx/xxxx) new user jsp
+- [ ] (EC: xx/xx/xxxx) add user controller (java class)
+- [ ] (EC: xx/xx/xxxx) user entity (java class)
+- [ ] (EC: xx/xx/xxxx) user table
+- [ ] (EC: xx/xx/xxxx) user dao to add user to db (java class)
+- [ ] (EC: xx/xx/xxxx) unit test dao add user functionality
+- [ ] (EC: xx/xx/xxxx) test round trip (front end to back end)
 
 ### View Hunt Report*
 
 As any user, I want to be able to read a hunt report seeing what users are participating and what points they have uncovered. Maybe include timing metrics.
 
+- [ ] (EC: xx/xx/xxxx) new user jsp
+- [ ] (EC: xx/xx/xxxx) add user controller (java class)
+- [ ] (EC: xx/xx/xxxx) user entity (java class)
+- [ ] (EC: xx/xx/xxxx) user table
+- [ ] (EC: xx/xx/xxxx) user dao to add user to db (java class)
+- [ ] (EC: xx/xx/xxxx) unit test dao add user functionality
+- [ ] (EC: xx/xx/xxxx) test round trip (front end to back end)
+
 ### View Hunt*
 
 As any user, I want to be able to search for hunts by name or location so that I could choose one im interested in.
+
+- [ ] (EC: xx/xx/xxxx) new user jsp
+- [ ] (EC: xx/xx/xxxx) add user controller (java class)
+- [ ] (EC: xx/xx/xxxx) user entity (java class)
+- [ ] (EC: xx/xx/xxxx) user table
+- [ ] (EC: xx/xx/xxxx) user dao to add user to db (java class)
+- [ ] (EC: xx/xx/xxxx) unit test dao add user functionality
+- [ ] (EC: xx/xx/xxxx) test round trip (front end to back end)
 
 ### View Hunt Difficulty (Rating, Point #, Terrain)*
 
 As any user, I want to be able to view the hunt difficulty using a few metrics.
 
+- [ ] (EC: xx/xx/xxxx) new user jsp
+- [ ] (EC: xx/xx/xxxx) add user controller (java class)
+- [ ] (EC: xx/xx/xxxx) user entity (java class)
+- [ ] (EC: xx/xx/xxxx) user table
+- [ ] (EC: xx/xx/xxxx) user dao to add user to db (java class)
+- [ ] (EC: xx/xx/xxxx) unit test dao add user functionality
+- [ ] (EC: xx/xx/xxxx) test round trip (front end to back end)
+
 ### About*
 
 As a user I want to find out more information about this site so that I can make donations or contact the admin.
+
+- [ ] (EC: xx/xx/xxxx) new user jsp
+- [ ] (EC: xx/xx/xxxx) add user controller (java class)
+- [ ] (EC: xx/xx/xxxx) user entity (java class)
+- [ ] (EC: xx/xx/xxxx) user table
+- [ ] (EC: xx/xx/xxxx) user dao to add user to db (java class)
+- [ ] (EC: xx/xx/xxxx) unit test dao add user functionality
+- [ ] (EC: xx/xx/xxxx) test round trip (front end to back end)
 
 ### Add Hunt Difficulty*
 
 As a registered user, I want to be able to add hunt difficulty to give users the latest data to make decisions. 
 
+- [ ] (EC: xx/xx/xxxx) new user jsp
+- [ ] (EC: xx/xx/xxxx) add user controller (java class)
+- [ ] (EC: xx/xx/xxxx) user entity (java class)
+- [ ] (EC: xx/xx/xxxx) user table
+- [ ] (EC: xx/xx/xxxx) user dao to add user to db (java class)
+- [ ] (EC: xx/xx/xxxx) unit test dao add user functionality
+- [ ] (EC: xx/xx/xxxx) test round trip (front end to back end)
+
 ### Add Hunt*
 
 As a registered user, I want to be able to add a new hunt so that others can learn about the hunt and add their progress and difficulty ratings to it.
+
+- [ ] (EC: xx/xx/xxxx) new user jsp
+- [ ] (EC: xx/xx/xxxx) add user controller (java class)
+- [ ] (EC: xx/xx/xxxx) user entity (java class)
+- [ ] (EC: xx/xx/xxxx) user table
+- [ ] (EC: xx/xx/xxxx) user dao to add user to db (java class)
+- [ ] (EC: xx/xx/xxxx) unit test dao add user functionality
+- [ ] (EC: xx/xx/xxxx) test round trip (front end to back end)
 
 ### Admin Edit Hunt*
 
 As an admin user, I want to be able to edit any hunt.
 
+- [ ] (EC: xx/xx/xxxx) new user jsp
+- [ ] (EC: xx/xx/xxxx) add user controller (java class)
+- [ ] (EC: xx/xx/xxxx) user entity (java class)
+- [ ] (EC: xx/xx/xxxx) user table
+- [ ] (EC: xx/xx/xxxx) user dao to add user to db (java class)
+- [ ] (EC: xx/xx/xxxx) unit test dao add user functionality
+- [ ] (EC: xx/xx/xxxx) test round trip (front end to back end)
+
 ### Admin Edit Hunt Difficulty*
 
 As an admin user, I want to be able to edit any hunt difficulty notes.
+
+- [ ] (EC: xx/xx/xxxx) new user jsp
+- [ ] (EC: xx/xx/xxxx) add user controller (java class)
+- [ ] (EC: xx/xx/xxxx) user entity (java class)
+- [ ] (EC: xx/xx/xxxx) user table
+- [ ] (EC: xx/xx/xxxx) user dao to add user to db (java class)
+- [ ] (EC: xx/xx/xxxx) unit test dao add user functionality
+- [ ] (EC: xx/xx/xxxx) test round trip (front end to back end)
 
 ### Password Reset
 
