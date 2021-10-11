@@ -34,17 +34,18 @@ Screenshots:
 * [Database Design](DesignDocuments/databaseDiagram.md)
 
 ### User Interfaces
-* [Home Page](DesignDocuments/Home%20Page%20(Draft).png)
+* [Home Page](DesignDocuments/Home%20Page.png)
 * [Sign Up](DesignDocuments/Sign%20Up.png)
 * [Sign In](DesignDocuments/Sign%20In.png)
 * [New Hunt](DesignDocuments/New%20Hunt.png)
 * [New Point](DesignDocuments/New%20Point.png)
-* [Hunt Summary](DesignDocuments/)
-* [Point Summary](DesignDocuments/)
+* [Hunt Summary](DesignDocuments/Hunt%20Summary.png)
+* [Point Summary](DesignDocuments/Point%20Summary.png)
 * [View/Edit Hunt](DesignDocuments/View_Edit%20Hunt.png)
 * [View/Edit Point](DesignDocuments/View_Edit%20Point.png)
-* [New Difficulty Note](DesignDocuments/)
+* [New Difficulty Note](DesignDocuments/New%20Update.png)
 * [About Scavenger Society](DesignDocuments/About.png)
+* [User Profile](DesignDocuments/User%20Profile.png)
 
 
 ### Progress Documentation and Reflection
